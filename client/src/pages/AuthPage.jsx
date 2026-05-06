@@ -51,7 +51,7 @@ export default function AuthPage() {
               <div className="star2">✨</div>
               <div className="star3">⭐</div>
             </div>
-            <div className="auth-title" style={{ marginTop: '8px' }}>StudyFlow</div>
+            <div className="auth-title" style={{ marginTop: '8px' }}>Deadline Diaries</div>
             <div className="auth-sub">Your smart classroom companion</div>
           </div>
 
