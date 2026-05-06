@@ -14,7 +14,7 @@ export default function Navbar() {
     <nav>
       <div className="nav-logo">
         <div className="orb">📖</div>
-        StudyFlow
+        Deadline Diaries
       </div>
       <div className="nav-links">
         <span className="nav-role">
