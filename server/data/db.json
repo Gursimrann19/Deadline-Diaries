@@ -19,10 +19,35 @@
       "department": "Computer Science Engineering",
       "studentId": "",
       "createdAt": "2026-05-06T04:19:56.672Z"
+    },
+    {
+      "_id": "f39775d71c5572f1",
+      "name": "Gursimran",
+      "email": "gursimran_be22@thapar.edu",
+      "passwordHash": "$2a$10$ZY4eRLgrmxiR4o/oTLBYduC6TmwyelpJEqKRiDMtIAhBD/CNtbPkO",
+      "role": "student",
+      "department": "Computer Science Engineering",
+      "studentId": "",
+      "createdAt": "2026-05-06T05:27:45.065Z"
     }
   ],
   "tasks": [],
   "assignments": [],
-  "projects": [],
+  "projects": [
+    {
+      "_id": "895303f2551ef7e9",
+      "name": "Ethara Assgn",
+      "emoji": "🗂️",
+      "description": "My application ",
+      "dueDate": "2026-05-07",
+      "status": "in_progress",
+      "members": [
+        "f39775d71c5572f1"
+      ],
+      "progress": 0,
+      "createdBy": "f39775d71c5572f1",
+      "createdAt": "2026-05-06T05:28:04.361Z"
+    }
+  ],
   "attendance": []
 }
