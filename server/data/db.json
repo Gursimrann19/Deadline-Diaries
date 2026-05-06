@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "_id": "772def37aa66fa21",
+      "name": "Gursimran",
+      "email": "gursiman_be22@thapar.edu",
+      "passwordHash": "$2a$10$4.IJxf/6hJT2R5jNOYXs0eMTAAujKWlhTwoS9/ulaBB8ylWdOg2Qy",
+      "role": "instructor",
+      "department": "Computer Science Engineering",
+      "studentId": "",
+      "createdAt": "2026-05-06T04:18:26.296Z"
+    },
+    {
+      "_id": "9cce64adb56e61a3",
+      "name": "Rhythm",
+      "email": "rhythm_be22@thapar.edu",
+      "passwordHash": "$2a$10$zzjaVBzgS2yP9rmk9Ajla.gK6w5b.Gs86IIaI5y3sVY8ZdZnFKoLa",
+      "role": "student",
+      "department": "Computer Science Engineering",
+      "studentId": "",
+      "createdAt": "2026-05-06T04:19:56.672Z"
+    }
+  ],
+  "tasks": [],
+  "assignments": [],
+  "projects": [],
+  "attendance": []
+}
