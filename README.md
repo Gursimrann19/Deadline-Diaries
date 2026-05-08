@@ -1,4 +1,4 @@
-# StudyFlow
+# Deadline Diaries
 
 StudyFlow is a MERN-stack classroom management application that connects students and instructors. It handles task tracking, assignment submissions, project team management, and attendance marking.
 
